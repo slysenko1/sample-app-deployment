@@ -1,0 +1,1 @@
+{"jobID":"e70d54b7-8eb8-9763-a8a0-29e8acb263cb","spec":{"type":"policy","cause":{"Message":"","User":"sergey lysenko \u003csergey.lysenko@sophos.com\u003e"},"spec":{"default:deployment/sample-app":{"add":{"automated":"true"},"remove":{}}}},"result":null}
